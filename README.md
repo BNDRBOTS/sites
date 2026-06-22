@@ -22,7 +22,8 @@
 * [MindCan](https://mindcan-production.up.railway.app/)
 * [BNDR | Voice](https://bndrvoice-production.up.railway.app/)
 * [BNDR | ToDo](https://todo-production-5764.up.railway.app/)
-
+* [BNDR | Mobile Intel](https://mobile-intel-production.up.railway.app/)
+  
 ==================
 # Concept WebApps
 ==================
