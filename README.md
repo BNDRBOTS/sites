@@ -55,13 +55,12 @@
 * [Email](mailto:bndr.labs@gmail.com)
 * [Proppz](https://propps.me/bndrllc)
 
-==================
-# BNDR Full Stax
-==================
+=========================================
+# BNDR Full Stax (works in progress...)
+=========================================
 * [Trade Agent 2](https://tradeagent-production-8e31.up.railway.app/)
-
 * [BNDR Spex](https://bndr-spex-production.up.railway.app)
 
-[GLM Chat](https://chat.z.ai/)
-[DeepSeek Chat](https://chat.deepseek.com/)
-[DeepSeek API](https://platform.deepseek.com/)
+* [GLM Chat](https://chat.z.ai/)
+* [DeepSeek Chat](https://chat.deepseek.com/)
+* [DeepSeek API](https://platform.deepseek.com/)
