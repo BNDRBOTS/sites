@@ -28,7 +28,7 @@
 # Concept WebApps
 ==================
 * [Second Chance Physics](https://secondchancephysics-production.up.railway.app/)
-
+* [BNDR ColorSLCT](https://colorslct-production.up.railway.app)
 ==================
 # BNDR Websites
 ==================
@@ -59,7 +59,9 @@
 # BNDR Full Stax
 ==================
 * [Trade Agent 2](https://tradeagent-production-8e31.up.railway.app/)
-* [BNDR ColorSLCT](https://colorslct-production.up.railway.app)
+
 * [BNDR Spex](https://bndr-spex-production.up.railway.app)
 
-  
+[GLM Chat](https://chat.z.ai/)
+[DeepSeek Chat](https://chat.deepseek.com/)
+[DeepSeek API](https://platform.deepseek.com/)
